@@ -1,6 +1,6 @@
 @extends('pasiens.layout')
 
-@section('title', 'Pendaftaran Pasien')
+@section('title', 'Dashboard Pendaftaran Pasien')
 
 @section('header')
      <a href="/pasiens" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto mx-5 text-dark text-decoration-none">

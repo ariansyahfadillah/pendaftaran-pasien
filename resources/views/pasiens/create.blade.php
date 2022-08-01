@@ -1,6 +1,6 @@
 @extends('pasiens.layout')
 
-@section('title', 'Tamabah Data Pasien')
+@section('title', 'Tambah Data Pasien')
 
 @section('content')
     <div class="row mb-5">

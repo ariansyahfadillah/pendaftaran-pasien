@@ -21,10 +21,6 @@
     <main class="container bg-light p-3 border rounded-3">
         @yield('content')
     </main>
-
-    <footer>
-        @yield('footer')
-    </footer>
 </body>
 
 </html>
